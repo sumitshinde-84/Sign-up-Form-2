@@ -41,7 +41,7 @@
 }
 
 .text{
-    font-size: 75px;
+    font-size: 60px;
     font-family:logo-font ;
     color: #fff;
 }
@@ -49,7 +49,7 @@
 
 .form-section{
     width: 65vw;
-    background-color: rgb(211, 246, 246);
+    background-color: rgb(234, 247, 247);
     display: flex;
     flex-direction: column;
     
