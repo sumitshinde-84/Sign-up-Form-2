@@ -46,7 +46,28 @@
 }
 
 
-form{
+.form-section{
     width: 65vw;
-    background-color: aquamarine;
+    background-color: rgb(211, 246, 246);
+    display: flex;
+    
+    
+  
+}
+
+.form-section .text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    width: 580px;
+    color: black;
+    font-weight: 500;
+    position: relative;
+    top: 18%;
+    left: 50px;
+
+}
+
+.form-section i{
+    font-weight: 750;
+
 }
